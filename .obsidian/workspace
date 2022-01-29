@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "b977b316f9d52011",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ba57226413cae93",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Red Team/Initial Access (TA0001).md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "04db9406ae3c2cbf",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e1a14c68369c22e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ddf66504bdd373a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e4953ee6a8343945",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f77aeac4e1443c29",
+    "type": "split",
+    "children": [
+      {
+        "id": "df72a4d89138cd1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb26ee2f28829734",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Red Team/Initial Access (TA0001).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9ba57226413cae93",
+  "lastOpenFiles": [
+    "Red Team/Initial Access (TA0001).md",
+    "Red Team/1. Reconnaissance.md",
+    "Red Team/0. Red Teaming.md",
+    "CCNP Security/1. Cybersecurity Fundamentals.md"
+  ]
+}
